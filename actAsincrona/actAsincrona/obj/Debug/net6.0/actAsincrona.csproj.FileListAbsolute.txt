@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\actAsincrona\actAsincrona\bin\Debug\net6.0\actAsincrona.exe
+C:\Users\HP\Desktop\actAsincrona\actAsincrona\bin\Debug\net6.0\actAsincrona.deps.json
+C:\Users\HP\Desktop\actAsincrona\actAsincrona\bin\Debug\net6.0\actAsincrona.runtimeconfig.json
+C:\Users\HP\Desktop\actAsincrona\actAsincrona\bin\Debug\net6.0\actAsincrona.dll
+C:\Users\HP\Desktop\actAsincrona\actAsincrona\bin\Debug\net6.0\actAsincrona.pdb
+C:\Users\HP\Desktop\actAsincrona\actAsincrona\obj\Debug\net6.0\actAsincrona.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\actAsincrona\actAsincrona\obj\Debug\net6.0\actAsincrona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\actAsincrona\actAsincrona\obj\Debug\net6.0\actAsincrona.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\actAsincrona\actAsincrona\obj\Debug\net6.0\actAsincrona.AssemblyInfo.cs
+C:\Users\HP\Desktop\actAsincrona\actAsincrona\obj\Debug\net6.0\actAsincrona.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\actAsincrona\actAsincrona\obj\Debug\net6.0\actAsincrona.dll
+C:\Users\HP\Desktop\actAsincrona\actAsincrona\obj\Debug\net6.0\refint\actAsincrona.dll
+C:\Users\HP\Desktop\actAsincrona\actAsincrona\obj\Debug\net6.0\actAsincrona.pdb
+C:\Users\HP\Desktop\actAsincrona\actAsincrona\obj\Debug\net6.0\actAsincrona.genruntimeconfig.cache
+C:\Users\HP\Desktop\actAsincrona\actAsincrona\obj\Debug\net6.0\ref\actAsincrona.dll
